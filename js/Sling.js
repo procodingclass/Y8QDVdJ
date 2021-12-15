@@ -25,14 +25,7 @@ class Sling {
     }
   }
 
-  // fly() {
-  //   this.sling.bodyB = null;
-  // }
-
-  // attach(pointA, body) {
-  //   this.sling.bodyB = body;
-  //   this.sling.pointA = pointA;
-  // }
+  
 }
 
 
